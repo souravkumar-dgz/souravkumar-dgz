@@ -14,13 +14,7 @@ Here, you'll find:
 
 Whether you're here to explore a project, steal a useful query 😄, or just see what I'm working on—welcome aboard! 
 
-## 🛠️ Tech Stack
-
-**Data Analytics**
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
+## 🛠️ Data Analytics Tech Stack
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
@@ -31,5 +25,7 @@ Whether you're here to explore a project, steal a useful query 😄, or just see
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+## Other Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-0A84FF?logo=wondershare&logoColor=white)
