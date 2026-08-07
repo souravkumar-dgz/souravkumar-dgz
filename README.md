@@ -24,5 +24,5 @@ Whether you're here to explore a project, steal a useful query 😄, or just see
 - Microsoft SQL Server
 
  **Extra Tools**
-- Canva  - Filmora15 
+ - Canva  - Filmora15 
   
