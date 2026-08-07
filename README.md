@@ -12,4 +12,17 @@ Here, you'll find:
 🐍 Python & data analysis experiments  
 💡 Random ideas, useful things, and projects I'm playing around with
 
-Whether you're here to explore a project, steal a useful query 😄, or just see what I'm working on—welcome aboard!
+Whether you're here to explore a project, steal a useful query 😄, or just see what I'm working on—welcome aboard! 
+
+## 🛠️ Tech Stack
+
+**Data Analytics**
+- 📊 Excel   - 🗄️ SQL   - 📈 Power BI   - 🐍 Python  - 🐼 Pandas  - 🔢 NumPy 
+
+**Databases**
+- MySQL
+- Microsoft SQL Server
+-
+- ** Extra Tools**
+- Canva  - Filmora15 
+  
