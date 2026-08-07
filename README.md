@@ -27,12 +27,7 @@ Whether you're here to explore a project, steal a useful query 😄, or just see
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Microsoft%20SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-
-**Databases**
-- MySQL
-- Microsoft SQL Server
-
- **Extra Tools**
- - Canva
- - Filmora15 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![Filmora](https://img.shields.io/badge/Filmora-0A84FF?logo=wondershare&logoColor=white)
   
