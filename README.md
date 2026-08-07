@@ -22,7 +22,7 @@ Whether you're here to explore a project, steal a useful query 😄, or just see
 **Databases**
 - MySQL
 - Microsoft SQL Server
--
-- ** Extra Tools**
+
+ **Extra Tools**
 - Canva  - Filmora15 
   
