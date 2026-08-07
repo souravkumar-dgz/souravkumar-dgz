@@ -1,4 +1,4 @@
-##👋 Hey there, I'm Sourav!
+## 👋 Hey there, I'm Sourav!
 
 Welcome to my little corner of GitHub!
 
