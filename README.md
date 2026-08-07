@@ -14,7 +14,7 @@ Here, you'll find:
 
 Whether you're here to explore a project, steal a useful query 😄, or just see what I'm working on—welcome aboard! 
 
-## 🛠️ Data Analytics Tech Stack
+## 🛠️Tech Stack
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
