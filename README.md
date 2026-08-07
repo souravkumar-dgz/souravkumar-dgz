@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hey there, I'm Sourav!
 
-<!--
-**souravkumar-dgz/souravkumar-dgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub!
 
-Here are some ideas to get you started:
+I'm a Data Analyst who enjoys turning messy data into something that actually makes sense. I like exploring data, building dashboards, writing queries, and figuring out the why behind the numbers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here, you'll find:
+
+📊 Data analytics projects I've worked on
+🗄️ SQL queries and data exploration
+📈 Dashboards & visualizations I've built
+🐍 Python & data analysis experiments
+💡 Random ideas, useful things, and projects I'm playing around with
+
+Whether you're here to explore a project, steal a useful query 😄, or just see what I'm working on—welcome aboard!
