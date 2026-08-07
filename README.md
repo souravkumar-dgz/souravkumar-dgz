@@ -35,7 +35,7 @@ Whether you're here to explore a project, steal a useful query 😄, or just see
 I enjoy learning by building things rather than just reading about them.
 
 Some days it's SQL.  
-Some days it's Excel.  
+Some days it's Python.  
 Some days the query works on the first try.  
 Those days are suspicious. 😂
 
