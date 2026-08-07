@@ -6,7 +6,7 @@ I'm a Data Analyst who enjoys turning messy data into something that actually ma
 
 Here, you'll find:
 
-📊 Data analytics projects I've worked on
+📊 Data analytics projects I've worked on  
 🗄️ SQL queries and data exploration
 📈 Dashboards & visualizations I've built
 🐍 Python & data analysis experiments
