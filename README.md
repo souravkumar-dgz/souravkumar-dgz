@@ -12,7 +12,7 @@ Here, you'll find:
 🐍 Python & data analysis experiments  
 💡 Random ideas, useful things, and projects I'm playing around with
 
-Whether you're here to explore a project, steal a useful query 😄, or just see what I'm working on—welcome aboard! 
+Whether you're here to explore a project, steal a useful query , or just see what I'm working on—welcome aboard! 
 
 ## 🛠️Tech Stack
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
@@ -37,6 +37,6 @@ I enjoy learning by building things rather than just reading about them.
 Some days it's SQL.  
 Some days it's Python.  
 Some days the query works on the first try.  
-Those days are suspicious. 😂
+Those days are suspicious. 
 
 I'm interested in Data Analytics, technology, problem-solving, and building useful things with data.
