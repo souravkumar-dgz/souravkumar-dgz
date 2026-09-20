@@ -30,13 +30,6 @@ Whether you're here to explore a project, steal a useful query , or just see wha
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-0A84FF?logo=wondershare&logoColor=white)
 
-## ☕ A little more about me
 
-I enjoy learning by building things rather than just reading about them.
-
-Some days it's SQL.  
-Some days it's Python.  
-Some days the query works on the first try.  
-Those days are suspicious. 
 
 I'm interested in Data Analytics, technology, problem-solving, and building useful things with data.
