@@ -2,7 +2,7 @@
 
 Welcome to my little corner of GitHub!
 
-I'm a Data Analytics Engineer who enjoys turning messy data into something that actually makes sense. I like exploring data, building dashboards, writing queries, and figuring out the why behind the numbers.
+I'm a Data Analytics Learner who enjoys turning messy data into something that actually makes sense. I like exploring data, building dashboards, writing queries, and figuring out the why behind the numbers.
 
 Here, you'll find:
 
